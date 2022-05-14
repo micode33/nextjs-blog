@@ -3,7 +3,7 @@
 This is my first react app using next.js and following the learning guide located at [https://nextjs.org/learn/foundations/about-nextjs](https://nextjs.org/learn/foundations/about-nextjs).
 
 - [Concepts](#concepts)
-- [Install](#install)
+- [Preview](#preview)
 
 # Concepts
 
@@ -18,22 +18,8 @@ This is my first react app using next.js and following the learning guide locate
 - Developer Experience - your team’s experience building and maintaining your application.
 
 
-# Install
+# Preview
 
-1. Clone repo
+I have successfully deployed this website onto firebase which you can find here.
 
-```bash
-git clone https://github.com/micode33/nextjs-blog.git
-```
-
-2. Change into the nextjs-blog directory
-  
-```bash
-cd nextjs-blog
-```
-
-3. Run development server
-
-```bash
-npm run dev
-```
+- [https://micode33-77526.web.app/](https://micode33-77526.web.app/)
