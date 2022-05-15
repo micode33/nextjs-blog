@@ -1,9 +1,10 @@
 <h1>Next JS Blog</h1>
 
-This is my first react app using next.js and following the learning guide located at [https://nextjs.org/learn/foundations/about-nextjs](https://nextjs.org/learn/foundations/about-nextjs).
+We've been learning react.js in our AWS Cloud Computing course with the Unitec Institute of Technology. I decided to experiment with next.js to expand my knowledge and understanding of react.js.
 
-- [Concepts](#concepts)
-- [Preview](#preview)
+I've followed the learning guide located at [https://nextjs.org/learn/foundations/about-nextjs](https://nextjs.org/learn/foundations/about-nextjs) to get this little blog site working.
+
+- [https://micode33-77526.web.app/](https://micode33-77526.web.app/)
 
 # Concepts
 
